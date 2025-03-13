@@ -11,10 +11,6 @@ This repository contains solutions to various machine learning assignments. Thes
   - [Assignment 3: Decision Trees on Iris Dataset](#assignment-3-decision-trees-on-iris-dataset)
   - [Assignment 4: Support Vector Machines (SVM) on Breast Cancer Dataset](#assignment-4-support-vector-machines-svm-on-breast-cancer-dataset)
   - [Assignment 5: Multi-Layer Perceptron (MLP) Neural Network on Breast Cancer Dataset](#assignment-5-multi-layer-perceptron-mlp-neural-network-on-breast-cancer-dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -123,9 +119,3 @@ Ensure you have the following software installed:
 - Python 3.x
 - Pip (Python package manager)
 
-### Installing Dependencies
-
-You can install the required dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
